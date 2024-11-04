@@ -1,0 +1,24 @@
+img {
+  width: 100%;
+  filter: brightness(30%);
+}
+.moreAbout {
+  position: absolute;
+  color: white;
+  left: 10%;
+  padding: 10px;
+  line-height: 23px;
+  top: 80%;
+}
+.overlay {
+  position: absolute;
+  top: 50%;
+  font-size: 3rem;
+  left: 10%;
+  color: white;
+  font-family: "Satisfy", cursive;
+}
+.name {
+  font-family: "Satisfy", cursive;
+  color: orange;
+}

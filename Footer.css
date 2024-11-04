@@ -1,0 +1,45 @@
+.Footer {
+  text-align: center;
+  height: 150px;
+  color: white;
+}
+.copyright {
+  font-size: smaller;
+  color: black;
+  line-height: 30px;
+  background-color: rgb(189, 188, 185);
+}
+.selected {
+  font-family: "Satisfy", cursive;
+  font-size: 2rem;
+  color: black;
+}
+.left {
+  font-size: smaller;
+  padding: 20px;
+  font-family: "Satisfy", serif;
+  float: left;
+  height: 170px;
+  background-color: rgb(113, 108, 100);
+  /* overflow: hidden; */
+  width: 30%;
+}
+.center {
+  height: 170px;
+  font-size: small;
+  padding: 20px;
+  background-color: rgb(113, 108, 100);
+  float: left;
+  width: 40%;
+}
+.right {
+  font-size: smaller;
+  height: 170px;
+  padding: 20px;
+  background-color: rgb(113, 108, 100);
+  float: left;
+  width: 30%;
+}
+* {
+  box-sizing: border-box;
+}
